@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "id": "fish_notifier",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "name": "Fish Notifier",
-  "description": "%fishnotifier.mod.description",
+  "description": "Rings a bell when you catch a fish - Compatible with PyroFishing. It also plays a unique sound when you catch a crab!",
   "authors": ["RibeiroMD"],
   "contact": {},
   "license": "CC0-1.0",
